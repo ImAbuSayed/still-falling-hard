@@ -15,7 +15,7 @@
 | **Written On** | May 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/still-falling-hard/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Still Falling Hard](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/still-falling-hard/) |
+| **Get License** | [Official Music Licensing for Still Falling Hard](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/still-falling-hard/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Midnight pulling into your drive
+> I can see that fire in your eyes
+> Got the engine low and the radio down
+> You’re the only thing that I want right now
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
