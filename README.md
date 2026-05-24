@@ -15,7 +15,7 @@
 | **Written On** | May 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/still-falling-hard/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Still Falling Hard](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/still-falling-hard/) |
+| **Get License** | [Obtain a Music License for Still Falling Hard](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/still-falling-hard/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `494e2d2cc9a73ad8ad7b40ba4d9426385cbb4f46cac63434e8077461eea39e61` |
 | **Timestamp** | May 25, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
